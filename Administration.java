@@ -1,4 +1,4 @@
-// Course Administration Portal. By- Saloni Ranka and Sanyam Jain
+// Course Administration System. By- Saloni Ranka and Sanyam Jain
 
 import java.sql.*;
 import java.util.Scanner;
