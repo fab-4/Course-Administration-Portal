@@ -1,8 +1,8 @@
-# Course-Administration-Portal
+# Course-Administration-System
 
 This project was made by Saloni Ranka and Sanyam Jain in May 2020 with the help of JDBC(Java) and MySQL. 
 
-The Course Administration Portal is designed for an institution’s database handling of students, instructors and the courses they are registered with or they teach. With the help of JDBC and SQL this portal is accessing and manipulating the institution’s database. The administration maintains the data-integrity by assigning a unique pair of ID and password to each student and instructor.
+The Course Administration System is designed for an institution’s database handling of students, instructors and the courses they are registered with or they teach. With the help of JDBC and SQL this portal is accessing and manipulating the institution’s database. The administration maintains the data-integrity by assigning a unique pair of ID and password to each student and instructor.
 
 
 The Administration Database consists of the following tables : 
